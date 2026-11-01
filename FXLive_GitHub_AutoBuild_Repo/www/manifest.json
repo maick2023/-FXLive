@@ -1,0 +1,9 @@
+{
+  "name": "汇通全球 FXLive - 实时汇率看板与智能转换",
+  "short_name": "汇通全球 FXLive",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait"
+}

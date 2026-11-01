@@ -1,0 +1,13 @@
+{
+  "appId": "com.fxlive.currency",
+  "appName": "汇通全球 FXLive",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": [
+      "open.er-api.com",
+      "*.er-api.com"
+    ]
+  }
+}
